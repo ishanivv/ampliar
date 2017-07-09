@@ -41,7 +41,7 @@
                                                 <span class="label label-success premium-listing">Premium Listing</span>
                                                 <h5 class="vehicle-title"><a href="vehicle-details.html">Mercedes-benz SL 300</a></h5>
                                                 <span class="vehicle-meta">Mercedes, Grey color, by <abbr class="user-type" title="Listed by an individual user">Individual</abbr></span>
-                                                <a href="results-list.html" title="View all Sedans" class="vehicle-body-type"><img src="images/body-types/sedan.png" width="30" alt=""></a>
+                                                <a href="results-list.html" title="View all Sedans" class="vehicle-body-type"><img src="../resources/core/images/body-types/sedan.png" width="30" alt=""></a>
                                                 <span class="vehicle-cost">$48500</span>
                                             </div>
                                         </div>
@@ -53,7 +53,7 @@
                                                 <span class="label label-primary vehicle-age">Brand New</span>
                                                 <h5 class="vehicle-title"><a href="vehicle-details.html">Nissan Terrano first hand</a></h5>
                                                 <span class="vehicle-meta">Nissan, Brown beige, by <abbr class="user-type" title="Listed by an dealer">Dealer</abbr></span>
-                                                <a href="results-list.html" title="View all SUVs" class="vehicle-body-type"><img src="images/body-types/suv.png" width="30" alt=""></a>
+                                                <a href="results-list.html" title="View all SUVs" class="vehicle-body-type"><img src="../resources/core/images/body-types/suv.png" width="30" alt=""></a>
                                                 <span class="vehicle-cost">$28000</span>
                                             </div>
                                         </div>
@@ -65,7 +65,7 @@
                                                 <span class="label label-default vehicle-age">2013</span>
                                                 <h5 class="vehicle-title"><a href="vehicle-details.html">Mercedes Benz E Class</a></h5>
                                                 <span class="vehicle-meta">Mercedes, Silver Blue, by <abbr class="user-type" title="Listed by an individual">Individual</abbr></span>
-                                                <a href="results-list.html" title="View all convertibles" class="vehicle-body-type"><img src="images/body-types/convertible.png" width="30" alt=""></a>
+                                                <a href="results-list.html" title="View all convertibles" class="vehicle-body-type"><img src="../resources/core/images/body-types/convertible.png" width="30" alt=""></a>
                                                 <span class="vehicle-cost">$76000</span>
                                             </div>
                                         </div>
@@ -77,7 +77,7 @@
                                                 <span class="label label-default vehicle-age">2014</span>
                                                 <h5 class="vehicle-title"><a href="vehicle-details.html">Newly launched Nissan Sunny</a></h5>
                                                 <span class="vehicle-meta">Nissan, Brown beige, by <abbr class="user-type" title="Listed by Autostars">Autostars</abbr></span>
-                                                <a href="results-list.html" title="View all coupes" class="vehicle-body-type"><img src="images/body-types/coupe.png" width="30" alt=""></a>
+                                                <a href="results-list.html" title="View all coupes" class="vehicle-body-type"><img src="../resources/core/images/body-types/coupe.png" width="30" alt=""></a>
                                                 <span class="vehicle-cost">$31999</span>
                                             </div>
                                         </div>
@@ -90,7 +90,7 @@
                                                 <span class="label label-success premium-listing">Premium Listing</span>
                                                 <h5 class="vehicle-title"><a href="vehicle-details.html">Mercedes-benz SL 300</a></h5>
                                                 <span class="vehicle-meta">Mercedes, Grey color, by <abbr class="user-type" title="Listed by an individual user">Individual</abbr></span>
-                                                <a href="results-list.html" title="View all Sedans" class="vehicle-body-type"><img src="images/body-types/sedan.png" width="30" alt=""></a>
+                                                <a href="results-list.html" title="View all Sedans" class="vehicle-body-type"><img src="../resources/core/images/body-types/sedan.png" width="30" alt=""></a>
                                                 <span class="vehicle-cost">$48500</span>
                                             </div>
                                         </div>
@@ -102,7 +102,7 @@
                                                 <span class="label label-primary vehicle-age">Brand New</span>
                                                 <h5 class="vehicle-title"><a href="vehicle-details.html">Nissan Terrano first hand</a></h5>
                                                 <span class="vehicle-meta">Nissan, Brown beige, by <abbr class="user-type" title="Listed by an dealer">Dealer</abbr></span>
-                                                <a href="results-list.html" title="View all SUVs" class="vehicle-body-type"><img src="images/body-types/suv.png" width="30" alt=""></a>
+                                                <a href="results-list.html" title="View all SUVs" class="vehicle-body-type"><img src="../resources/core/images/body-types/suv.png" width="30" alt=""></a>
                                                 <span class="vehicle-cost">$28000</span>
                                             </div>
                                         </div>
@@ -114,7 +114,7 @@
                                                 <span class="label label-default vehicle-age">2013</span>
                                                 <h5 class="vehicle-title"><a href="vehicle-details.html">Mercedes Benz E Class</a></h5>
                                                 <span class="vehicle-meta">Mercedes, Silver Blue, by <abbr class="user-type" title="Listed by an individual">Individual</abbr></span>
-                                                <a href="results-list.html" title="View all convertibles" class="vehicle-body-type"><img src="images/body-types/convertible.png" width="30" alt=""></a>
+                                                <a href="results-list.html" title="View all convertibles" class="vehicle-body-type"><img src="../resources/core/images/body-types/convertible.png" width="30" alt=""></a>
                                                 <span class="vehicle-cost">$76000</span>
                                             </div>
                                         </div>
@@ -126,7 +126,7 @@
                                                 <span class="label label-default vehicle-age">2014</span>
                                                 <h5 class="vehicle-title"><a href="vehicle-details.html">Newly launched Nissan Sunny</a></h5>
                                                 <span class="vehicle-meta">Nissan, Brown beige, by <abbr class="user-type" title="Listed by Autostars">Autostars</abbr></span>
-                                                <a href="results-list.html" title="View all coupes" class="vehicle-body-type"><img src="images/body-types/coupe.png" width="30" alt=""></a>
+                                                <a href="results-list.html" title="View all coupes" class="vehicle-body-type"><img src="../resources/core/images/body-types/coupe.png" width="30" alt=""></a>
                                                 <span class="vehicle-cost">$31999</span>
                                             </div>
                                         </div>

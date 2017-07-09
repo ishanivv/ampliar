@@ -30,6 +30,10 @@
                             <input type="text" name="ad_price" id="ad_price" class="form-control">
                         </div>
                         <div class="col-md-12 col-sm-12 text-center">
+                            <label for="description">Description</label>
+                            <textarea type="text" name="description" id="description" class="form-control"></textarea>
+                        </div>
+                        <div class="col-md-12 col-sm-12 text-center">
                             <label for="ad_name">Category</label>
                             <input type="text" name="category" id="category" class="form-control">
                         </div>

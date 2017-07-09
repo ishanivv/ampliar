@@ -30,16 +30,11 @@
         <h4 class="result-item-title"><a href="vehicle-details.html"><%=resultSet.getString("ad_name")%></a></h4>
         <div class="result-item-cont">
             <div class="result-item-block col1">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis egestas rhoncus. Donec facilisis fermentum sem, ac viverra ante luctus vel. Donec vel mauris quam..</p>
+                <p><%=resultSet.getString("description")%></p>
             </div>
             <div class="result-item-block col2">
                 <div class="result-item-pricing">
                     <div class="price">LKR <%=resultSet.getString("ad_price")%></div>
-                </div>
-                <div class="result-item-action-buttons">
-                    <a href="#" class="btn btn-default btn-sm"><i class="fa fa-star-o"></i> Save</a>
-                    <a href="vehicle-details.html" class="btn btn-default btn-sm">Enquire</a><br>
-                    <a href="#" class="distance-calc"><i class="fa fa-map-marker"></i> Distance from me?</a>
                 </div>
             </div>
         </div>
