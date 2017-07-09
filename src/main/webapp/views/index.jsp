@@ -5,7 +5,7 @@
         <header class="site-header">
             <div class="container sp-cont">
                 <div class="site-logo">
-                    <h1><a href="index.html"><img src="images/logo.png" alt="Logo"></a></h1>
+                    <h1><a href="/ampliar/views"><img src="images/logo.png" alt="Logo"></a></h1>
                     <span class="site-tagline">Buying or Selling,<br>just got easier!</span>
                 </div>
                 <div class="header-right">
@@ -14,9 +14,7 @@
                     </div>
                     <div class="topnav dd-menu">
                         <ul class="top-navigation sf-menu">
-                            <li><a href="results-list.html">Buy</a></li>
-                            <li><a href="add-listing-pricing.html">Sell</a></li>
-                            <li><a href="joinus.html">Join</a></li>
+                           <%@include file='layout/navigation.jsp'%>
                         </ul>
                     </div>
                 </div>
