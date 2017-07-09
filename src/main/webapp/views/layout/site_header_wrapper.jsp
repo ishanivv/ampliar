@@ -3,7 +3,7 @@
     <header class="site-header">
         <div class="container sp-cont">
             <div class="site-logo">
-                <h1><a href="/ampliar/views"><img src="../resources/images/logo.png" alt="Logo"></a></h1>
+                <h1><a href="/ampliar/views"><img src="../resources/core/images/logo.png" alt="Logo"></a></h1>
                 <span class="site-tagline">Buying or Selling,<br>just got easier!</span>
             </div>
             <div class="header-right">

@@ -20,7 +20,7 @@
 
 <div class="result-item format-standard">
     <div class="result-item-image">
-        <a href="vehicle-details.html" class="media-box"><img src="http://placehold.it/600x400&amp;text=IMAGE+PLACEHOLDER" alt=""></a>
+        <a href="vehicle-details.html" class="media-box"><img src="../resources/core/images/patterns/pt17.png" alt=""></a>
         <span class="label label-default vehicle-age">2014</span>
         <div class="result-item-view-buttons">
             <a href="vehicle-details.html"><i class="fa fa-plus"></i> View details</a>

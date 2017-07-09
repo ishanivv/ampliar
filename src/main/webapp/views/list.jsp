@@ -312,18 +312,12 @@
 <script>
 
     function loadAdList() {
-
-
         $.ajax({
             url: '/ampliar/services/load_ad_list.jsp?'
 
         }).done(function (data) {
-            console.log(data);
             $('#results-holder').html(data);
         });
-
-
-
     }
 
 
