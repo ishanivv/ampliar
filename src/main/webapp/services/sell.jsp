@@ -18,13 +18,15 @@
             Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/amplier", "root", "");
             Statement st = con.createStatement();
             int i = st.executeUpdate("insert into ads(ad_name,ad_price,status) values('" + ad_name + "','" + ad_price + "',1)");
-            response.getWriter().write("Advertisement was successfully posted.");
+            // New location to be redirected
+            String site = new String("/ampliar/views/list.jsp");
+            response.setStatus(response.SC_MOVED_TEMPORARILY);
+            response.setHeader("Location", site);
         } catch (Exception e) {
             System.out.print(e);
             e.printStackTrace();
         }
 
-        
     }
 
 %>
